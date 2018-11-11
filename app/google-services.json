@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "152662691846",
+    "firebase_url": "https://webster-news.firebaseio.com",
+    "project_id": "webster-news",
+    "storage_bucket": "webster-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152662691846:android:084c292448f6a095",
+        "android_client_info": {
+          "package_name": "com.brijesh.webster.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152662691846-mp8sv94u0m8b8h69307c80nntaib0mi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brijesh.webster.news",
+            "certificate_hash": "aa47dfd0ae302a800a8f81eebbe3506b73a334a1"
+          }
+        },
+        {
+          "client_id": "152662691846-9c1lv7qjsboq7cj1qck3gjm3qe83r6nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TqGMfaonI_sFj38TMZrblfc0uJEwuNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152662691846-9c1lv7qjsboq7cj1qck3gjm3qe83r6nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Webster News </string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="title_activity_article">MyTimes</string>
+    <string name="article_activity_author">AUTHOR:</string>
+    <string name="article_activity_source">SOURCE: Times of India</string>
+    <string name="article_activity_date">DATE:</string>
+    <string name="menu_title_url">url</string>
+    <string name="iv_card_content_description_image">Image of the news response</string>
+    <string name="collasping_image">Collasping Image</string>
+    <string name="menu_title_about">About the app</string>
+    <string name="privacy">Policy</string>
+    <string name="tv_made_with_love_by">Made with &#9829; by</string>
+    <string name="iv_card_my_info">My Photo</string>
+    <string name="tv_libraries_used">Libraries Used</string>
+    <string name="toolbar_default_text">Google News (India) </string>
+    <string name="title_about_the_app">About the app</string>
+
+
+    <string name="notifications_admin_channel_name">Global channel</string>
+    <string name="notifications_admin_channel_description">Notifications sent from the app admin</string>
+
+
+    <string name="admob_app_id">ca-app-pub-2223046350534305~2519430400</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2223046350534305/2489895842</string>
+    <string name="admob_interstitial_id">ca-app-pub-2223046350534305/3321731406</string>
+
+    <string-array name="spinner">
+        <item>TOP HEADLINES</item>
+        <item>LATEST HEADLINES</item>
+    </string-array>
+
+</resources>
